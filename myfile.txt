@@ -1,0 +1,10 @@
+Git Commands
+
+1. git init- used for initialisation. It turns a directory into an empty git repositary.
+	     After this,adding and committing is possible.
+2. git add-  before commit to repository,the file needs to be added to the staging area.
+	     git add . -this is used to add all files of a folder
+3. git commit-records the changes made to the files in a local repository.(can also include a message explaining the changes made in a commit)
+4. git status-tells us about the current status of the repository.
+5. git push-sends local commits to the repository.
+6. git config-to assign settings.
